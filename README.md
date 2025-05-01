@@ -28,7 +28,7 @@ git clone https://github.com/guacharako23/Ecomerce_Final.git
 cd Ecomerce_Final
 ```
 
-2. Abre `index.html` en tu navegador.
+2. Abre https://guacharako23.github.io/Ecomerce_Final/ en tu navegador.
 
 ## 🧠 Futuras mejoras
 
